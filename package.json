@@ -1,0 +1,22 @@
+{
+  "name": "hfu_21h_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alkaensos/HFU_21H_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alkaensos/HFU_21H_Javascript/issues"
+  },
+  "homepage": "https://github.com/Alkaensos/HFU_21H_Javascript#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
